@@ -4,8 +4,10 @@
   "description": "",
   "scripts": {
     "start": "func start",
-    "test": "echo \"No tests yet...\""
+    "test": "echo \"No tests yet...\"",
+    "build:azure"
   },
   "dependencies": {},
   "devDependencies": {}
+  //Added by me  "build:azure"
 }
